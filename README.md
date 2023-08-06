@@ -21,8 +21,8 @@ You can find config file in: `C:\Users\{USER}\AppData\Roaming\YApps\RemoteMusicS
 
 
 # Screenshots
-![Settings](https://i.imgur.com/gCsL792.png)
-![Debugg](https://i.imgur.com/kcVsfQR.png)
+![Settings](https://i.imgur.com/ilHeKKz.png)
+![Debugg](https://i.imgur.com/d45Bj9U.png)
 
 
 # Some last words...
